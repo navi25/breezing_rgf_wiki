@@ -1,3 +1,5 @@
+Fast Links
+
 [Home](https://github.com/navi25/breezing_rgf/wiki)
 
 User Modules
