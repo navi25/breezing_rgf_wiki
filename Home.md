@@ -9,6 +9,7 @@ BreezingPro Test Software is a desktop app for testing BreezingPro Mask Device. 
 This page contains all the modules included in the Test Software and how they work.
 
 ### Modules
+These are the modules that the user directly interact with.
 
 1. [Mask Name and Barcode Generation](https://github.com/navi25/breezing_rgf/wiki/Mask-Name-and-Barcode-Generation)
 2. [PD Test (Photo Diode Test)](https://github.com/navi25/breezing_rgf/wiki/PD-Test-(Photo-Diode-Test))
@@ -17,6 +18,12 @@ This page contains all the modules included in the Test Software and how they wo
 5. Gyroscope Module Test
 6. Real Time Clock Test
 7. Settings
+
+### Development Modules
+These are the modules that are necessary for the software to work.
+
+1. USB Module
+
 
 
 
