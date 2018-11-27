@@ -10,7 +10,7 @@ This page contains all the modules included in the Test Software and how they wo
 ### Modules
 
 1. [Mask Name and Barcode Generation](https://github.com/navi25/breezing_rgf/wiki/Mask-Name-and-Barcode-Generation)
-2. PD Test (Photo Diode Test)
+2. [PD Test (Photo Diode Test)](https://github.com/navi25/breezing_rgf/wiki/PD-Test-(Photo-Diode-Test))
 3. Flow Regression Test
 4. BLE Test (Bluetooth Low Energy)
 5. Gyroscope Module Test
