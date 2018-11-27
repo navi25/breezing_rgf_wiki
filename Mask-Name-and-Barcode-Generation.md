@@ -1,5 +1,3 @@
-# Mask Name and Barcode Generation
-
 This modules get the device name (Breezing Pro Mask Device) and generate a barcode.
 
 ### Step-by-Step Working
