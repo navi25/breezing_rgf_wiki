@@ -4,6 +4,7 @@ BreezingPro Test Software is a desktop app for testing BreezingPro Mask Device. 
 * [Electron](https://electronjs.org/) - A cross platform desktop app building framework.
 * [React](https://reactjs.org/) - A declarative UI framework. (For developing UI)
 * [Redux](https://redux.js.org/) - A predictable state container for JavaScript apps. (For managing states/models)
+* [ChartJs](https://www.chartjs.org/) - A simple Javascript library to build complex charts. (We will be using react-chartjs)
 
 This page contains all the modules included in the Test Software and how they work.
 
