@@ -22,7 +22,7 @@ These are the modules that the user directly interact with.
 ### Development Modules
 These are the modules that are necessary for the software to work.
 
-1. USB Module
+1. [USB Module](https://github.com/navi25/breezing_rgf/wiki/USB-Module-(dev-module))
 
 
 
