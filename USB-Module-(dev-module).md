@@ -15,3 +15,11 @@ UART Serial library for node used
 * Connect button to connect with this port.
 
 * We will get one transmission buffer and one receiver buffer. Both of these buffers will be of ASCII char streams.
+
+
+### Remarks
+
+This module caused a lot of problem in setup. (I was using [**"node-serialport"**](https://github.com/node-serialport/node-serialport) module. Tried with [**"usb"**](https://github.com/tessel/node-usb) too but the former is better.) 
+The reasons are:
+ - None of the usb modules work with browsers for security reasons and so make calls from electron module instead of react.
+
