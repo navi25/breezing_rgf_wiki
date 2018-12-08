@@ -22,4 +22,8 @@ UART Serial library for node used
 This module caused a lot of problem in setup. (I was using [**"node-serialport"**](https://github.com/node-serialport/node-serialport) module. Tried with [**"usb"**](https://github.com/tessel/node-usb) too but the former is better.) 
 The reasons are:
  - None of the usb modules work with browsers for security reasons and so make calls from electron module instead of react.
+ - For MacOS, we need to have FTDI driver for the BMask device but mac doesn't have support for showing FTDI drivers in terminal. Go to **Apple Icon -> About Mac -> System Report -> USB -> USB Serial D **
+
+
+
 
