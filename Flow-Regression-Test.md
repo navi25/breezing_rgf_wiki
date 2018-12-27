@@ -12,7 +12,7 @@ This test builds the flow model using the Regression Model.
   * Now Take P1 and transform each pressure value by taking square root of [P(i) - P(1)]/600 for each ith Pressure value and Name the new Pressure value as P(i)*.
   * Make a mapping from F(i)* to original P(i)*. This way we will get 11 data points for 11 flow rates.
   * Use Linear regression model to fit this data point to straight line in form of y = mx + c. 
-  * Ignore value of **c** and write the value of **m** back to the mask device.
+  * Ignore value of **c** and write the value of **m** (rounded to 3 decimal places) back to the mask device. 
 
 ### Commands Used
 * To get data
