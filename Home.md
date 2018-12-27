@@ -13,7 +13,7 @@ These are the modules that the user directly interact with.
 
 1. [Mask Name and Barcode Generation](https://github.com/navi25/breezing_rgf/wiki/Mask-Name-and-Barcode-Generation)
 2. [PD Test (Photo Diode Test)](https://github.com/navi25/breezing_rgf/wiki/PD-Test-(Photo-Diode-Test))
-3. Flow Regression Test
+3. [Flow Regression Test](https://github.com/navi25/breezing_rgf/wiki/Flow-Regression-Test)
 4. BLE Test (Bluetooth Low Energy)
 5. Gyroscope Module Test
 6. Real Time Clock Test
