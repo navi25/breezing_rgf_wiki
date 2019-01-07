@@ -11,3 +11,4 @@
 
 **Developers Module**
 * [USB Module (dev module)](https://github.com/navi25/breezing_rgf/wiki/USB-Module-(dev-module))
+* [Bluetooth Module (dev module)](https://github.com/navi25/breezing_rgf/wiki/Bluetooth-Dev-Module)
