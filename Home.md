@@ -15,9 +15,10 @@ These are the modules that the user directly interact with.
 2. [PD Test (Photo Diode Test)](https://github.com/navi25/breezing_rgf/wiki/PD-Test-(Photo-Diode-Test))
 3. [Flow Regression Test](https://github.com/navi25/breezing_rgf/wiki/Flow-Regression-Test)
 4. [BLE Test (Bluetooth Low Energy)](https://github.com/navi25/breezing_rgf/wiki/BLE-Test-(Bluetooth-Low-Energy))
-5. Gyroscope Module Test
-6. Real Time Clock Test
-7. Settings
+5. [Environmental Sensor Test](https://github.com/navi25/breezing_rgf/wiki/Environmental-Sensor-Test)
+6. Gyroscope Module Test
+7. Real Time Clock Test
+8. Settings
 
 ### Development Modules
 These are the modules that are necessary for the software to work.
