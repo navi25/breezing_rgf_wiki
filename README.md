@@ -11,11 +11,11 @@ This page contains all the modules included in the Test Software and how they wo
 ### Modules
 These are the modules that the user directly interact with.
 
-1. [Mask Name and Barcode Generation](https://github.com/navi25/breezing_rgf_wiki/blob/master/Mask-Name-and-Barcode-Generation)
-2. [PD Test (Photo Diode Test)](https://github.com/navi25/breezing_rgf_wiki/blob/master/PD-Test-(Photo-Diode-Test))
-3. [Flow Regression Test](https://github.com/navi25/breezing_rgf_wiki/blob/master/Flow-Regression-Test)
-4. [BLE Test (Bluetooth Low Energy)](https://github.com/navi25/breezing_rgf/wiki/BLE-Test-(Bluetooth-Low-Energy))
-5. [Environmental Sensor Test](https://github.com/navi25/breezing_rgf/wiki/Environmental-Sensor-Test)
+1. [Mask Name and Barcode Generation](https://github.com/navi25/breezing_rgf_wiki/blob/master/Mask-Name-and-Barcode-Generation.md)
+2. [PD Test (Photo Diode Test)](https://github.com/navi25/breezing_rgf_wiki/blob/master/PD-Test-(Photo-Diode-Test).md)
+3. [Flow Regression Test](https://github.com/navi25/breezing_rgf_wiki/blob/master/Flow-Regression-Test.md)
+4. [BLE Test (Bluetooth Low Energy)](https://github.com/navi25/breezing_rgf_wiki/blob/master/BLE-Test-(Bluetooth-Low-Energy).md)
+5. [Environmental Sensor Test](https://github.com/navi25/breezing_rgf_wiki/blob/master/Environmental-Sensor-Test.md)
 6. Gyroscope Module Test
 7. Real Time Clock Test
 8. Settings
@@ -23,8 +23,8 @@ These are the modules that the user directly interact with.
 ### Development Modules
 These are the modules that are necessary for the software to work.
 
-1. [USB Module](https://github.com/navi25/breezing_rgf/wiki/USB-Module-(dev-module))
-2. [Bluetooth Dev Module](https://github.com/navi25/breezing_rgf/wiki/Bluetooth-Dev-Module)
+1. [USB Module](https://github.com/navi25/breezing_rgf_wiki/blob/master/USB-Module-(dev-module).md)
+2. [Bluetooth Dev Module](https://github.com/navi25/breezing_rgf_wiki/blob/master/Bluetooth-Dev-Module.md)
 
 
 
