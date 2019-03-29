@@ -17,8 +17,7 @@ These are the modules that the user directly interact with.
 4. [BLE Test (Bluetooth Low Energy)](https://github.com/navi25/breezing_rgf_wiki/blob/master/BLE-Test-(Bluetooth-Low-Energy).md)
 5. [Environmental Sensor Test](https://github.com/navi25/breezing_rgf_wiki/blob/master/Environmental-Sensor-Test.md)
 6. Gyroscope Module Test
-7. Real Time Clock Test
-8. Settings
+7. Settings
 
 ### Development Modules
 These are the modules that are necessary for the software to work.
